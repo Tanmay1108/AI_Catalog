@@ -30,7 +30,7 @@ SupaClear is a tool designed to collate and generate comprehensive one-page summ
 
 ## Prerequisites
 
-- Python 3.8+
+- Python 3.12
 - MongoDB
 - Dropbox Account
 - OpenAI API Key
